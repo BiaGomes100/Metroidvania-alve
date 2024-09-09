@@ -1,4 +1,4 @@
-# MetroidvaniaSalve
+# 👾 MetroidvaniaSalve
 Olá rede!
 
 Este é um projeto criado no Construct 3, que tem 5 fases de um jogo de Metroidvania.
